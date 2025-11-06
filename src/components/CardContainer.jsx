@@ -2,7 +2,7 @@ import Card from "./Card"
 
 import IconSupervisor from "../assets/images/icon-supervisor.svg"
 import IconTeamBuilder from "../assets/images/icon-team-builder.svg"
-import IconKarma from "../assets/images/icon-Karma.svg"
+import IconKarma from "../assets/images/icon-karma.svg"
 import IconCalculator from "../assets/images/icon-calculator.svg"
 
 function CardContainer() {
